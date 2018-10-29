@@ -6,7 +6,7 @@
 
     <groupId>com.groupdocs.ui</groupId>
     <artifactId>signature-servlet</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <packaging>war</packaging>
 
     <name>GroupDocs.Signature for Java Servlet Sample</name>
