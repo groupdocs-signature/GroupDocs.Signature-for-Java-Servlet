@@ -1,6 +1,7 @@
 # GroupDocs.Signature-for-Java-Servlet Example
 ###### version 1.1.0
 
+:warning: **This repository has moved to https://github.com/groupdocs-signature/GroupDocs.Signature-for-Java/tree/master/Demos/Servlet**
 
 ## System Requirements
 - Java 8 (JDK 1.8)
